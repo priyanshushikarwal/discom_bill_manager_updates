@@ -1,6 +1,6 @@
 {
-  "version": "1.0.52",
-  "zip_url": "https://github.com/priyanshushikarwal/discom_bill_manager/releases/download/v1.0.52/discom_bill_manager_windows.zip",
+  "version": "1.0.53",
+  "zip_url": "https://github.com/priyanshushikarwal/discom_bill_manager/releases/download/v1.0.53/discom_bill_manager_windows.zip",
   "notes": "Added stress test generator, partial payment tracking, export directory selection, database migration fixes, dashboard performance .",
   "mandatory": false
 }
